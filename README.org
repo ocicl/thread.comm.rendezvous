@@ -1,0 +1,10 @@
+* thread.comm.rendezvous
+
+Rendezvous thread synchronization
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kkazuo/thread.comm.rendezvous.git   |
+| commit  | e89e405  |
+| systems | thread.comm.rendezvous |
+|---------+-------------------------------------------|
+
