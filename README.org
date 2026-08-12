@@ -8,4 +8,4 @@ Rendezvous thread synchronization
 | systems | thread.comm.rendezvous |
 |---------+-------------------------------------------|
 
- 
+  
